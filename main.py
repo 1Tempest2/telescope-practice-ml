@@ -5,6 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from imblearn.over_sampling import RandomOverSampler
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report
+from sklearn.naive_bayes import GaussianNB
 
 def scale_dataset(dataframe, oversample=False):
   X = dataframe[dataframe.columns[:-1]].values
@@ -48,5 +49,11 @@ test, X_test, y_test = scale_dataset(test, oversample=False)
 knn_model = KNeighborsClassifier(n_neighbors=9)
 knn_model.fit(X_train, y_train)
 y_pred = knn_model.predict(X_test)
-print(classification_report(y_test, y_pred))
+#print(classification_report(y_test, y_pred))
 # end of KNN
+
+# Naive Bayes model
+nb_model = GaussianNB()
+nb_model = nb_model.fit(X_train, y_train)
+y_pred = nb_model.predict(X_test)
+print(classification_report(y_test, y_pred))
