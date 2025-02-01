@@ -1,16 +1,10 @@
-# This is a sample Python script.
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
-# Press Ctrl+F5 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+labels = ["fLength", "fWidth", "fSize", "fConc", "fConc1", "fAsym", "fM3Long", "fM3Trans", "fAlpha", "fDist", "class"]
+dataset = pd.read_csv("Data/magic04.data", names = labels)
+# print(dataset.head())
+# print(dataset["class"].unique())
+dataset["class"] = np.where(dataset["class"] == "g", 1, 0)
+print(dataset.head())
