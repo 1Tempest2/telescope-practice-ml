@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9556fac8-d61f-4e84-ba08-c303c7f92af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pysql2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DV0101EN-Final_Assign_Part_2_Questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_machinelearning_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Decision_trees.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/FinalProject_AUSWeather.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/K-Means-Customer-Seg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/KNN_Classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Logistic_Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Mulitple-Linear-Regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Multi-class_Classification.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Practice Project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Random_ Forests _XGBoost.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/Regression_Trees_Taxi_Tip.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jupyter_notebooks/decision_tree_svm_ccFraud.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-based-final-project.py" beforeDir="false" afterPath="$PROJECT_DIR$/web-based-final-project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,36 +45,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.SVM.executor": "Run",
-    "Python.linear-regression.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.neural-network.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.project.executor": "Run",
-    "Python.pysql.executor": "Run",
-    "Python.unsupervised learning.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "various-methods",
-    "last_opened_file_path": "C:/Users/Botond/PycharmProjects/telescope-practice-ml/Data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DV0101EN-Final_Assign_Part_2_Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SVM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_analyzation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_machinelearning_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear-regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.neural-network.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pysql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unsupervised learning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web-based-final-project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.web-based.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;various-methods&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Botond/PycharmProjects/telescope-practice-ml/Data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Botond\PycharmProjects\telescope-practice-ml\Data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Botond\PycharmProjects\telescope-practice-ml\jupyter_notebooks" />
+      <recent name="C:\Users\Botond\PycharmProjects\telescope-practice-ml" />
       <recent name="C:\Users\Botond\PycharmProjects\telescope-practice-ml\Data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="telescope-practice-ml" />
       <option name="ENV_FILES" value="" />
@@ -142,6 +160,12 @@
       <workItem from="1739552652805" duration="2519000" />
       <workItem from="1739631143814" duration="7713000" />
       <workItem from="1739884590644" duration="6185000" />
+      <workItem from="1740488786432" duration="1189000" />
+      <workItem from="1740614406071" duration="4554000" />
+      <workItem from="1740927302742" duration="3689000" />
+      <workItem from="1741354422413" duration="21397000" />
+      <workItem from="1741472201351" duration="595000" />
+      <workItem from="1741512231033" duration="11463000" />
     </task>
     <servers />
   </component>
@@ -149,13 +173,19 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/telescope_practice_ml$practice.coverage" NAME="practice Coverage Results" MODIFIED="1739884925391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$practice.coverage" NAME="practice Coverage Results" MODIFIED="1740616275643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/telescope_practice_ml$neural_network.coverage" NAME="neural-network Coverage Results" MODIFIED="1738494548749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/telescope_practice_ml$unsupervised_learning.coverage" NAME="unsupervised learning Coverage Results" MODIFIED="1738609909877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/telescope_practice_ml$project.coverage" NAME="project Coverage Results" MODIFIED="1739636981699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$web_based.coverage" NAME="web-based Coverage Results" MODIFIED="1741375436217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/telescope_practice_ml$main.coverage" NAME="main Coverage Results" MODIFIED="1739286718080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$flask.coverage" NAME="flask Coverage Results" MODIFIED="1741374243531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$DV0101EN_Final_Assign_Part_2_Questions.coverage" NAME="DV0101EN-Final_Assign_Part_2_Questions Coverage Results" MODIFIED="1741382658218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/telescope_practice_ml$SVM.coverage" NAME="SVM Coverage Results" MODIFIED="1738492713272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/telescope_practice_ml$linear_regression.coverage" NAME="linear-regression Coverage Results" MODIFIED="1738605822920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$data_analyzation.coverage" NAME="data_analyzation Coverage Results" MODIFIED="1740618270574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/telescope_practice_ml$pysql.coverage" NAME="pysql Coverage Results" MODIFIED="1739891825439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$web_based_final_project.coverage" NAME="web-based-final-project Coverage Results" MODIFIED="1741380925375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$unsupervised_learning.coverage" NAME="unsupervised learning Coverage Results" MODIFIED="1738609909877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$final_machinelearning_project.coverage" NAME="final_machinelearning_project Coverage Results" MODIFIED="1741553824543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/telescope_practice_ml$project.coverage" NAME="project Coverage Results" MODIFIED="1739636981699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
